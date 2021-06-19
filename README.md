@@ -3,7 +3,7 @@ when you use restful api and network get disconnect you have to store your data 
 
 this example for Android App Architecture
 
-what we are used !
+What am used !
  * kotlin coroutines 
  * data binding 
  * structured concurrency 
@@ -16,4 +16,4 @@ what we are used !
  * room data base 
  * androidX
 
-Our reference : https://developer.android.com/jetpack/guide#build-ui
+My reference : https://developer.android.com/jetpack/guide#build-ui
