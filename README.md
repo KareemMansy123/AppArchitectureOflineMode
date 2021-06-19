@@ -3,16 +3,17 @@ when you use restful api and network get disconnect you have to store your data 
 
 this example for Android App Architecture
 
-we are used kotlin coroutines ,
-            data binding ,
-            structured concurrency ,
-            coroutines flow synchronization ,
-            inline fun  ,
-            architectural patterns mvvm ,
-            dagger 2 ,
-            dependency injection hilt ,
-            retrofit network call ,
-            room data base ,
-            androidX
+what we are used !
+ * kotlin coroutines 
+ * data binding 
+ * structured concurrency 
+ * coroutines flow synchronization 
+ * inline fun  
+ * architectural patterns mvvm 
+ * dagger 2 
+ * dependency injection hilt 
+ * retrofit network call 
+ * room data base 
+ * androidX
 
 Our reference : https://developer.android.com/jetpack/guide#build-ui
